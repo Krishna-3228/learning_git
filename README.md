@@ -1,6 +1,6 @@
 # learning_git
 My first git repository
 
-Author - Krishna
+Author - Krishna (keshav gupta)
 <br>
 git is awesome
